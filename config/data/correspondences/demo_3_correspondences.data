@@ -1,0 +1,187 @@
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 2.29999995, -1.60000002 ], 
+  "_slam_point" : [ 2.29999995, -1.60000002  ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 9.40000057, -1.60000002 ], 
+  "_slam_point" : [ 9.40000057, -1.60000002 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 9.40000057, -15.9000006 ], 
+  "_slam_point" : [ 9.40000057, -15.9000006 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 52.6000023, -15.8000002 ], 
+  "_slam_point" : [ 52.6000023, -15.8000002 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 74.4000015, -16 ], 
+  "_slam_point" : [ 74.4000015, -16 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 74.2000046, -1.70000005 ], 
+  "_slam_point" : [ 74.2000046, -1.70000005 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 81.3000031, -1.60000002 ], 
+  "_slam_point" : [ 81.3000031, -1.60000002 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 81.3000031, -23.3000011 ], 
+  "_slam_point" : [ 81.3000031, -23.3000011 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 74.2000046, -23.2000008 ], 
+  "_slam_point" : [ 74.2000046, -23.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 52.5, -23.1000004 ], 
+  "_slam_point" : [ 52.5, -23.1000004 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 52.5, -32.5 ], 
+  "_slam_point" : [ 52.5, -32.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 78.5, -32.4000015 ], 
+  "_slam_point" : [ 78.5, -32.4000015 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 78.5, -35.5 ], 
+  "_slam_point" : [ 78.5, -35.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 52.6000023, -35.5 ], 
+  "_slam_point" : [ 52.6000023, -35.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 52.6000023, -44.6000023 ], 
+  "_slam_point" : [ 52.6000023, -44.6000023 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 43.2999992, -35.6000023 ], 
+  "_slam_point" : [ 43.2999992, -35.6000023 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 43.2999992, -32.4000015 ], 
+  "_slam_point" : [ 43.2999992, -32.4000015 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 43.2000008, -16.2000008 ], 
+  "_slam_point" : [ 43.2000008, -16.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 43.2000008, -44.6000023 ], 
+  "_slam_point" : [ 43.2000008, -44.6000023 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 9.30000019, -23.2000008 ], 
+  "_slam_point" : [ 9.30000019, -23.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 2.29999995, -23.2000008 ], 
+  "_slam_point" : [ 2.29999995, -23.2000008 ]
+ }
+
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 30.5, -16.3000011 ], 
+  "_slam_point" : [ 23.3999996, -16.3000011 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31.2000008, -16.3000011 ], 
+  "_slam_point" : [ 24.1000004, -16.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 30.1000004, -17.5 ], 
+  "_slam_point" : [ 23.3000011, -17.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31, -17.5 ], 
+  "_slam_point" : [ 24.1000004, -17.6000004 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31, -23.2000008 ], 
+  "_slam_point" : [ 24.1000004, -23.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31, -44.6000023 ], 
+  "_slam_point" : [ 24.1000004, -44.7999992 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 40.2999992, -32.5 ], 
+  "_slam_point" : [ 33.9000015, -32.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 40.2999992, -35.4000015 ], 
+  "_slam_point" : [ 33.7999992, -35.4000015 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 41.7000008, -32.4000015 ], 
+  "_slam_point" : [ 38.2999992, -32.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 41.6000023, -35.5 ], 
+  "_slam_point" : [ 38.2999992, -35.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 40.2999992, -44.5 ], 
+  "_slam_point" : [ 33.7999992, -44.6000023 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 41.6000023, -44.2999992 ], 
+  "_slam_point" : [ 38, -44.6000023 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 40.2000008, -16.2000008 ], 
+  "_slam_point" : [ 33.9000015, -16.2000008 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 41.6000023, -16 ], 
+  "_slam_point" : [ 38.2000008, -16.2000008 ]
+ }
+
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31, -32.5 ], 
+  "_slam_point" : [ 24.2000008, -32.5 ]
+ }
+
+"CorrespondenceAnchor" : { 
+  "_cad_point" : [ 31, -35.5 ], 
+  "_slam_point" : [ 24.2000008, -35.5 ]
+ }
+

@@ -1,0 +1,35 @@
+"PathPoses" : { 
+  "_start" : [ 51, 38 ], 
+  "_end" : [ 698, 38 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 692, 309 ], 
+  "_end" : [ 688, 42 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 695, 181 ], 
+  "_end" : [ 293, 381 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 459, 384 ], 
+  "_end" : [ 49, 63 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 379, 228 ], 
+  "_end" : [ 378, 380 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 298, 308 ], 
+  "_end" : [ 651, 306 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 714, 33 ], 
+  "_end" : [ 339, 339 ]
+ }
+

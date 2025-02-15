@@ -1,0 +1,45 @@
+"PathPoses" : { 
+  "_start" : [ 921, 36 ], 
+  "_end" : [ 313, 40 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 167, 296 ], 
+  "_end" : [ 1032, 1275 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 182, 1274 ], 
+  "_end" : [ 877, 1335 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 870, 286 ], 
+  "_end" : [ 1049, 198 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 1034, 869 ], 
+  "_end" : [ 199, 648 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 207, 750 ], 
+  "_end" : [ 324, 749 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 354, 292 ], 
+  "_end" : [ 668, 602 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 551, 601 ], 
+  "_end" : [ 678, 904 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 888, 747 ], 
+  "_end" : [ 373, 755 ]
+ }
+

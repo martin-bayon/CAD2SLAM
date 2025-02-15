@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cad2slam</name>
+  <version>0.0.0</version>
+  <description>CAD2SLAM: Adaptative mapping between CAD blueprints and robot-built maps</description>
+
+  <maintainer email="martin.bayon@unileon.es">martin</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>srrg_cmake_modules</build_depend>
+  <build_depend>srrg2_core</build_depend>
+  <build_depend>srrg2_solver</build_depend>
+  <build_depend>srrg2_navigation_2d</build_depend>
+  <build_depend>yaml-cpp</build_depend>
+
+
+  <build_export_depend>srrg_cmake_modules</build_export_depend>
+  <build_export_depend>srrg2_core</build_export_depend>
+  <build_export_depend>srrg2_solver</build_export_depend>
+  <build_export_depend>srrg2_navigation_2d</build_export_depend>
+  <build_export_depend>yaml-cpp</build_export_depend>
+
+
+  <exec_depend>srrg_cmake_modules</exec_depend>
+  <exec_depend>srrg2_core</exec_depend>
+  <exec_depend>srrg2_solver</exec_depend>
+  <exec_depend>srrg2_navigation_2d</exec_depend>
+  <exec_depend>yaml-cpp</exec_depend>
+</package>

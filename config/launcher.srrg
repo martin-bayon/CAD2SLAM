@@ -1,0 +1,14 @@
+#!/usr/bin/env srrg2_shell 
+
+echo Config file: <ARG_1>
+
+open <ARG_1>
+
+add_canvas graph_optimizer graph_optimizer
+
+exec graph_builder saveInitialGraph
+exec graph_builder saveAugmentedGraph
+
+exec graph_optimizer loadGraph
+exec graph_optimizer optimize
+exec graph_optimizer saveGraph

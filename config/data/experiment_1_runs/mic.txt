@@ -1,0 +1,30 @@
+"PathPoses" : { 
+  "_start" : [ 467, 456 ], 
+  "_end" : [ 1411, 727 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 1137, 569 ], 
+  "_end" : [ 798, 734 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 481, 710 ], 
+  "_end" : [ 248, 790 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 55, 427 ], 
+  "_end" : [ 358, 149 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 277, 206 ], 
+  "_end" : [ 686, 738 ]
+ }
+
+"PathPoses" : { 
+  "_start" : [ 328, 446 ], 
+  "_end" : [ 293, 558 ]
+ }
+
